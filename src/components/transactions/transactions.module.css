@@ -1,0 +1,21 @@
+.transactionHistory {
+  margin: 0 auto;
+  margin-bottom: 25px;
+  box-shadow: 5px 5px 12px 0px rgba(102, 99, 99, 0.75);
+  -webkit-box-shadow: 5px 5px 12px 0px rgba(102, 99, 99, 0.75);
+  -moz-box-shadow: 5px 5px 12px 0px rgba(102, 99, 99, 0.75);
+}
+.tableHeadRow {
+  color: aliceblue;
+}
+.tableHeadRow > th {
+  width: 200px;
+  height: 50px;
+  background-color: lightseagreen;
+}
+.tableBodyRow > td {
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  border-bottom: 1px solid #959292;
+}

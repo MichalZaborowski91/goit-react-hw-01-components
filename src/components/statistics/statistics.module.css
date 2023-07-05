@@ -26,13 +26,14 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border: 1px solid black;
 }
 .label {
   font-size: 14px;
-  color: white;
+  color: aliceblue;
 }
 .percentage {
   font-size: 18px;
   font-weight: 500;
-  color: white;
+  color: aliceblue;
 }
