@@ -8,6 +8,9 @@
 .tableHeadRow {
   color: aliceblue;
 }
+tr:nth-child(even) {
+  background-color: #c7c4c4;
+}
 .tableHeadRow > th {
   width: 200px;
   height: 50px;
@@ -17,5 +20,4 @@
   width: 200px;
   height: 50px;
   text-align: center;
-  border-bottom: 1px solid #959292;
 }
